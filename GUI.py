@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-oijoijj ljoijoij
+
 def window_layout():
     """ Layout for the GUI window. """
     layout = [
